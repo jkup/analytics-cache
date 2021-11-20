@@ -1,0 +1,2 @@
+# analytics-cache
+Something secret.
